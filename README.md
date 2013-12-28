@@ -1,0 +1,1 @@
+runhaskell site.hs build
