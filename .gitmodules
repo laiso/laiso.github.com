@@ -1,0 +1,4 @@
+[submodule "_site"]
+	path = _site
+	url = git@github.com:laiso/laiso.github.com.git
+	branch = master
